@@ -13,6 +13,9 @@
 - Pěšky ze Sázavy přes Mrchojedy, Talmberk, Úžice, Ledečko do Ratají. Spaní v tábořišti na břečkárně. Trasa cca 14km [mapa](https://mapy.cz/s/cocobobara)
 - Večer skvělá hospoda v Ratajském zámku
 
+<iframe style="border:none" src="https://frame.mapy.cz/s/kuvamedabo" width="400" height="280" frameborder="0"></iframe>
+
+
 ## 3. Den
 
 - V Ratajích se dají půjčit loďky a jet do Kácova (Pivovar)
