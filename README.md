@@ -26,7 +26,7 @@
 
 - Po vystřízlivění řidičů návrat domů
 
-## Co s sebou?
+# Co s sebou?
 
 - Spacák a karimatku
 - Stan (uvidíme podle předpovědi počasí, jestli se nám s ním budfe chtít tahat, minimálně na tu první noc, když ho můžeme nechat v autě)
