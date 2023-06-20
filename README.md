@@ -13,7 +13,7 @@
 - Pěšky ze Sázavy přes Mrchojedy, Talmberk, Úžice, Ledečko do Ratají. Spaní v tábořišti na břečkárně. Trasa cca 14km [mapa](https://mapy.cz/s/cocobobara)
 - Večer skvělá hospoda v Ratajském zámku
 
-<iframe style="border:none" src="https://frame.mapy.cz/s/kuvamedabo" width="400" height="280" frameborder="0"></iframe>
+<iframe style="border:none" src="https://frame.mapy.cz/s/kuvamedabo"  width="700" height="466" frameborder="0"></iframe>
 
 
 ## 3. Den
@@ -21,6 +21,8 @@
 - Ráno vstaneme, dáme snídani a půjdeme dále podél řeky
 - Dojdeme kam dojdeme, sedneme na vlak a pojedeme do Kácova do pivovaru, kde je zase kemp a pivovar
 - Na loďky kašleme
+
+<iframe style="border:none" src="https://frame.mapy.cz/s/gakuvajeze" width="700" height="466" frameborder="0"></iframe>
 
 ## 4. Den
 
