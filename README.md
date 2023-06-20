@@ -18,12 +18,13 @@
 
 ## 3. Den
 
-- V Ratajích se dají půjčit loďky a jet do Kácova (Pivovar)
-- Pokračovat dále pěšky podél řeky
-- Jet vlakem do Stříbrné Skalice (Matesa by jsme museli předtím opít) a pak pěšky do Sázavy
+- Ráno vstaneme, dáme snídani a půjdeme dále podél řeky
+- Dojdeme kam dojdeme, sedneme na vlak a pojedeme do Kácova do pivovaru, kde je zase kemp a pivovar
+- Na loďky kašleme
 
 ## 4. Den
 
+- Pojedeme vlakem z Kácova zpět do Sázavy
 - Po vystřízlivění řidičů návrat domů
 
 # Co s sebou?
