@@ -34,8 +34,9 @@
 # Co s sebou?
 
 - Spacák a karimatku
-- Stan (uvidíme podle předpovědi počasí, jestli se nám s ním budfe chtít tahat, minimálně na tu první noc, když ho můžeme nechat v autě)
+- Stan
 - Pokud bude zájem tak klidně vezmu kytaru
 - Nějaké jídlo, ale v kempech se dá koupit snídaně, po cestě budou vesnice a hospody.
 - Pláštěnka (myslet i na batoh, nebo alespoň na spacák)
-- Lékatní výpravy je Markéta, takže léky, obvazy brát nerřeba
+- Repelent, opalovací krém
+- Lékárnicí výpravy je Markéta, takže léky, obvazy brát netřeba
