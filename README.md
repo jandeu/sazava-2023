@@ -27,9 +27,15 @@
 - Pojedeme vlakem z Kácova zpět do Sázavy
 - Po vystřízlivění řidičů návrat domů
 
+## 5. Den
+
+- Pokud nás napadne nějaký program, ta kse zdržíme do neděle
+
 # Co s sebou?
 
 - Spacák a karimatku
 - Stan (uvidíme podle předpovědi počasí, jestli se nám s ním budfe chtít tahat, minimálně na tu první noc, když ho můžeme nechat v autě)
 - Pokud bude zájem tak klidně vezmu kytaru
-- Nějaké jídlo, ale v kempech se dá koupit snídaně, po cestě budou vesnice a hospody. 
+- Nějaké jídlo, ale v kempech se dá koupit snídaně, po cestě budou vesnice a hospody.
+- Pláštěnka (myslet i na batoh, nebo alespoň na spacák)
+- Lékatní výpravy je Markéta, takže léky, obvazy brát nerřeba
